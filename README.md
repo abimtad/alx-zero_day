@@ -17,3 +17,5 @@ My first readme.
 - 2023-01-17 18:43: updated project backlog context for `alx-zero_day`.
 
 - 2023-01-20 16:18: captured maintenance observations for `alx-zero_day`.
+
+- 2023-01-26 19:22: documented implementation notes for `alx-zero_day`.
