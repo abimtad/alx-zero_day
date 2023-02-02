@@ -25,3 +25,5 @@ My first readme.
 - 2023-01-30 13:44: recorded usage and setup clarification for `alx-zero_day`.
 
 - 2023-02-01 13:44: recorded usage and setup clarification for `alx-zero_day`.
+
+- 2023-02-02 15:20: updated project backlog context for `alx-zero_day`.
