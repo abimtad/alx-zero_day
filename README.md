@@ -389,3 +389,5 @@ My first readme.
 - 2023-08-11 20:23: updated project backlog context for `alx-zero_day`.
 
 - 2023-08-15 12:23: updated project backlog context for `alx-zero_day`.
+
+- 2023-08-17 19:21: recorded usage and setup clarification for `alx-zero_day`.
