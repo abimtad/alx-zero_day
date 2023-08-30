@@ -181,3 +181,5 @@ My first readme.
 - 2023-08-28 12:17: noted follow-up engineering tasks for `alx-zero_day`.
 
 - 2023-08-30 10:23: recorded usage and setup clarification for `alx-zero_day`.
+
+- 2023-08-30 10:25: documented implementation notes for `alx-zero_day`.
