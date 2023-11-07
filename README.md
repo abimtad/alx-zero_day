@@ -451,3 +451,5 @@ My first readme.
 - 2023-11-02 19:10: noted follow-up engineering tasks for `alx-zero_day`.
 
 - 2023-11-03 12:11: noted follow-up engineering tasks for `alx-zero_day`.
+
+- 2023-11-07 16:30: recorded usage and setup clarification for `alx-zero_day`.
