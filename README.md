@@ -461,3 +461,5 @@ My first readme.
 - 2023-11-21 18:27: recorded usage and setup clarification for `alx-zero_day`.
 
 - 2023-11-23 10:45: captured maintenance observations for `alx-zero_day`.
+
+- 2023-11-24 18:06: recorded usage and setup clarification for `alx-zero_day`.
